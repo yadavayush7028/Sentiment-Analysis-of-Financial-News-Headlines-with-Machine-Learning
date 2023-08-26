@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Financial-Text
+Sentiment Analysis of Financial News Headlines with Machine Learning
